@@ -1,0 +1,79 @@
+{
+  "pages": [
+    {
+      "size": "320",
+      "scrollWidth": 320,
+      "clientWidth": 320,
+      "title": "Clear Step English — учебная концепция",
+      "landmarks": {
+        "main": true,
+        "nav": true,
+        "footer": true
+      },
+      "emptyImages": [],
+      "horizontalOverflow": false
+    },
+    {
+      "size": "375",
+      "scrollWidth": 375,
+      "clientWidth": 375,
+      "title": "Clear Step English — учебная концепция",
+      "landmarks": {
+        "main": true,
+        "nav": true,
+        "footer": true
+      },
+      "emptyImages": [],
+      "horizontalOverflow": false
+    },
+    {
+      "size": "390",
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "title": "Clear Step English — учебная концепция",
+      "landmarks": {
+        "main": true,
+        "nav": true,
+        "footer": true
+      },
+      "emptyImages": [],
+      "horizontalOverflow": false
+    },
+    {
+      "size": "768",
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "title": "Clear Step English — учебная концепция",
+      "landmarks": {
+        "main": true,
+        "nav": true,
+        "footer": true
+      },
+      "emptyImages": [],
+      "horizontalOverflow": false
+    },
+    {
+      "size": "1440",
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "title": "Clear Step English — учебная концепция",
+      "landmarks": {
+        "main": true,
+        "nav": true,
+        "footer": true
+      },
+      "emptyImages": [],
+      "horizontalOverflow": false
+    }
+  ],
+  "consoleErrors": [],
+  "brokenLinks": [],
+  "interactions": {
+    "mobileMenu": true,
+    "menuClosedAfterClick": true,
+    "faqOpens": true,
+    "invalidFocused": "name",
+    "validStatus": "Готово: поля заполнены корректно. Это демонстрация — данные не сохранены и никуда не отправлены.",
+    "focusVisible": true
+  }
+}
